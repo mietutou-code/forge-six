@@ -1,0 +1,27 @@
+{
+  "name": "forge-six",
+  "version": "0.1.0",
+  "description": "A deterministic six-mode capability gym for coding agents.",
+  "type": "module",
+  "bin": {
+    "forge-six": "./bin/forge-six.mjs"
+  },
+  "scripts": {
+    "assets": "node tools/build-assets.mjs",
+    "demo": "node bin/forge-six.mjs demo",
+    "list": "node bin/forge-six.mjs list",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "ai-agents",
+    "benchmark",
+    "coding-agent",
+    "computer-use",
+    "evaluation"
+  ],
+  "license": "MIT"
+}
+

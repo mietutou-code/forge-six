@@ -1,0 +1,6 @@
+[
+  { "extension": ".pdf", "destination": "Finance" },
+  { "extension": ".jpg", "destination": "Photos" },
+  { "extension": ".zip", "destination": "Archives" }
+]
+

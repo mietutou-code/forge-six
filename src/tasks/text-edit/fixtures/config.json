@@ -1,0 +1,6 @@
+{
+  "protocol": "https",
+  "retry_attempts": 3,
+  "timeout_ms": 2500
+}
+

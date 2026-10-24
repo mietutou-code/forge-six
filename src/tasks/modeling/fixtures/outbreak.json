@@ -1,0 +1,10 @@
+{
+  "population": 100000,
+  "initial_susceptible": 99990,
+  "initial_infected": 10,
+  "beta": 0.35,
+  "gamma": 0.14285714285714285,
+  "dt": 0.05,
+  "days": 140
+}
+
