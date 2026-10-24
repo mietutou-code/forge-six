@@ -2,6 +2,8 @@
 
 **A deterministic six-mode capability gym for coding agents.**
 
+[![CI](https://github.com/mietutou-code/forge-six/actions/workflows/ci.yml/badge.svg)](https://github.com/mietutou-code/forge-six/actions/workflows/ci.yml)
+
 Forge Six gives an agent six small, isolated jobs that verify more than "the code
 ran": inspect an image, edit protected prose, run an experiment, model a dynamic
 system, repair a module, and automate a filesystem workflow. Every task has a
@@ -32,7 +34,7 @@ and hard to pass by accident.
 ## Quick start
 
 ```bash
-git clone <your-fork-url>
+git clone https://github.com/mietutou-code/forge-six.git
 cd forge-six
 
 node bin/forge-six.mjs list
